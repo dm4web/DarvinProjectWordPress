@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cb2b1c1-664e-4e83-b516-a9acdada253f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/darvinproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clothes-section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/chevron-down-white.b35fbefb721c3bbd82fd106db0475e5d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/chevron-down.97118199ce082c012d36411f65c5e9a8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/first_cart.2fdf7e5a2fdb7bce3b0a3c814e44bd6e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gth.bd91ff5d967fbae4facf0978d9dc098f.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ic.fe4a397e32e575159c952fd39d0df026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.222e1a71dee135b68f40370bb93f3b13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/maill.1a727c583100fe92a08aaf928fbfdc30.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/map.f6da266dd564aa52f5eb9c706d80cdc9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu_button.8306ee4875eca6dc37db356347ae3077.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/post-img.2d9b84656238e2869e059246476c24a5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/second_cart.cc1b7a45e58146778e3218ba164b409c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shopping_cart_complete.ee74023febdb7420152e4c1566e15655.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shopping_cart_plus_round.96fc050f3f1f1221f6240ab0cc72b094.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slide-img.01df37ff6284ffc29a8dbbf19def41b9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider-pointer-color.515d4dcee56fef2a74bd7f9f80df326c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider-pointer.a9b7ed6b9854e7bbae33c2fae8f4a241.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/third_cart.6043d5a1d9be2129068ed5feaa0903ed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vktt.eb9535b82c728eb376fb690f0ec8e8af.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news-section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post-section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singular-section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hBaICK3vtYv3q98b4JxwZvIntl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cb2b1c1-664e-4e83-b516-a9acdada253f" name="Default Changelist" comment="" />
+      <created>1599486857006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599486857006</updated>
+      <workItem from="1599486858087" duration="384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="912" y="419" key="Github.ShareDialog" timestamp="1599487104950">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="912" y="419" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599487104950" />
+    <state x="789" y="226" key="Github.UntrackedFilesDialog" timestamp="1599487114383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="789" y="226" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599487114383" />
+    <state x="543" y="166" key="SettingsEditor" timestamp="1599487244485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="543" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599487244485" />
+  </component>
+</project>
